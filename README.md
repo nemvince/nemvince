@@ -1,5 +1,5 @@
 <pre>
- ~> <strong>ssh root@readme</strong>
+~> <strong>ssh root@readme</strong>
 root@readme's password: *************
                     _                  ___  __           ___   _ 
  _ __ ___  __ _  __| |_ __ ___   ___  /___\/ _\  __   __/ _ \ / |
@@ -14,16 +14,14 @@ root@readme:~# <strong>ls skills</strong>
 python typescript sveltekit tailwind sysadmin
 
 root@readme:~# <strong>cd skills/sysadmin</strong>
-python typescript sveltekit tailwind
-
-root@readme:~/sysadmin# <strong>ls</strong>
+root@readme:~/skills/sysadmin# <strong>ls</strong>
 cisco linux proxmox docker
 
-root@readme:~/sysadmin# <strong>cd</strong>
+root@readme:~/skills/sysadmin# <strong>cd</strong>
 root@readme:~# <strong>ls learning</strong>
 next react flutter shadcn
 
 root@readme:~/sysadmin# <strong>poweroff</strong>
-Broadcast message from readme@readme (Sat 2024-01-06 18:25:20 UTC):
+Broadcast message from root@readme (Sat 2024-01-06 18:25:20 UTC):
 The system is going down for poweroff NOW!
 </pre>
