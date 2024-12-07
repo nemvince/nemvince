@@ -21,7 +21,7 @@ root@readme:~/skills/sysadmin# <strong>cd</strong>
 root@readme:~# <strong>ls learning</strong>
 next react flutter shadcn
 
-root@readme:~/sysadmin# <strong>poweroff</strong>
+root@readme:~# <strong>poweroff</strong>
 Broadcast message from root@readme (Sat 2024-01-06 18:25:20 UTC):
 The system is going down for poweroff NOW!
 </pre>
